@@ -1,1 +1,1 @@
-My second readme. Learning git
+My first readme
